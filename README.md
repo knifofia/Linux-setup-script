@@ -1,7 +1,7 @@
 # Linux setup script
 ## Overview 
 
-This script contains installation script of common librairy used by @kniofia. 
+This script contains installation script of common librairy used by @knifofia. 
 
 ## Features
 
